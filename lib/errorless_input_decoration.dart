@@ -1,0 +1,1 @@
+export 'src/extra/errorless_input_decoration.dart';
